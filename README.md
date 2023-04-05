@@ -17,10 +17,8 @@
 	<h2>Installation</h2>
 	<p>To install Layyah Lookup, simply download the app from the App Store or Google Play Store. The app is available for both iOS and Android devices.</p>
 	<h2>Screenshots</h2>
-	<p></p>
-
+	<p>  </p>
 	<h2>Conclusion</h2>
 	<p>Layyah Lookup is the ultimate city guide app for Layyah, offering a wide range of features and services that make it easy and convenient for users to navigate the city, find new places, and stay informed about local news and events. Download the app today and discover all that Layyah has to offer!</p>
 	<h2>Contact</h2>
 	<p>If you have any questions or feedback about Layyah Lookup, please feel free to contact us at 18.bscs.803@gmail.com</p>
- 
