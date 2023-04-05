@@ -1,5 +1,4 @@
 # Layyah-Lookup
-<h1>Layyah Lookup</h1>
 	<p>Layyah Lookup is a comprehensive city guide app for Layyah, developed by Khubaib Khan on 22 June 2022. The app is designed to help both locals and tourists navigate the city, discover new places, and find important information about various services and facilities available in Layyah.</p>
 	<h2>Features</h2>
 	<p>Layyah Lookup includes the following features:</p>
